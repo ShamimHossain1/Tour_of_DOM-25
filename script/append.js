@@ -22,7 +22,7 @@ placesList.appendChild(li2)
 
 
 const sectionDress = document.createElement('section');
-sectionDress. innerHTML = `
+sectionDress.innerHTML = `
  <h1>My Dress section</h1>
  <ul>
     <li>T-shirt</li>

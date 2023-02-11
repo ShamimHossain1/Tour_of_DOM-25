@@ -7,12 +7,15 @@ li {
     color: blue;
     /* font-size: x-large; */
 }
-p{
+
+p {
     font-size: larger;
 }
-.text-center{
+
+.text-center {
     text-align: center;
 }
-.large-text{
+
+.large-text {
     font-size: 5rem;
 }
