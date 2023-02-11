@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+    /* font-size: xx-large; */
+}
+
+li {
+    color: blue;
+    /* font-size: x-large; */
+}
+p{
+    font-size: larger;
+}
+.text-center{
+    text-align: center;
+}
+.large-text{
+    font-size: 5rem;
+}
